@@ -1,3 +1,7 @@
+## Intro: 
+test Gemini 3, flash UI
+task: simple authenticator UI
+
 ## Screen Recording
 
 
